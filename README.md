@@ -1,1 +1,1 @@
-# Alart_server.py
+Industrial Safety System using Gas Leak Detection (IoT based Alert System)
